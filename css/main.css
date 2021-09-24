@@ -318,8 +318,7 @@ body {
 }
 .header__main .header__main-log {
   display: flex;
-  margin: 0px 0;
-  margin-bottom:50px;
+  margin: 50px 0;
 }
 @media (max-width: 425px) {
   .header__main .header__main-log {
