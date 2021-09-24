@@ -1,0 +1,171 @@
+@media(max-width:1600px){
+  .header {
+    height: 75vh;
+  }
+  .slots {
+    height: 12vh;
+  }
+  .aim__above {
+    background-size: 126%;
+  }
+  .aim__middle {
+    margin-top:-1px;
+  }
+  .stack {
+    height: 110vh;
+  }
+  .stack .stack__inner {
+     padding: 0px 0;
+     height:inherit;
+  }
+  .road {
+    height: 110vh;
+  }
+  .blocks {
+      margin-bottom: 180px;
+  }
+  .promo {
+    height:440vh;
+  }
+}
+@media(max-width:1440px){
+  .promo {
+    height: 430vh;
+    padding:0;
+  }
+  .slots {
+    height: 11vh;
+  }
+  .aim__above {
+    background-size: 140%;
+  }
+  .section__inner .system__title {
+    top: -100px;
+  }
+  .section__inner {
+    justify-content: space-between;
+  }
+  .system{
+    height:110vh;
+  }
+}
+@media(max-width:1280px){
+  .promo {
+    height: 530vh;
+    padding:0;
+  }
+  .road {
+    height: 150vh;
+  }
+  .footer {
+    padding: 1px 0px 20px 0px;
+  }
+  .aim {
+    height: 200vh;
+   margin-bottom:0px;
+  }
+  .aim__above {
+    background-size: 228%;
+  }
+  .aim {
+    height: 220vh;
+  }
+  .stack {
+    height: 120vh;
+  }
+  .heat .progress__blocks {
+    height: 100vh;
+  } 
+}
+@media(max-width:1024px){
+  .header {
+    height: 65vh;
+  }
+  .slots {
+    height: 8vh;
+  }
+  .aim__above {
+    background-size: 262%;
+  }
+  .aim {
+    height: 210vh;
+  }
+  .stack {
+    height: 120vh;
+  }
+  .system {
+    height: 190vh;
+    padding:100px 0;
+  }
+  .heat .progress__blocks {
+    height: 100vh;
+  }
+  .promo {
+    height: 470vh;
+  }
+  .road {
+    height: 180vh;
+    padding-bottom: 0;
+  }
+}
+@media(max-width:768px){
+  .slots {
+    height: 6vh;
+  }
+  .promo {
+    height: 480vh;
+  }
+  .aim__above {
+    background-size: 596%;
+    height: 1700px;
+  }
+  .aim {
+    height: 290vh;
+  }
+  .stack {
+    height: 160vh;
+  }
+  .road {
+    height: 60vh;
+  }
+
+}
+@media(max-width:425px){
+  .header__main .pre {
+    height: 100px;
+  }
+  .slots {
+    height: 4vh;
+  }
+  .aim__above {
+    background-size: 1089%;
+    height: 1720px;
+  }
+  .aim {
+    height: 290vh;
+  }
+  .stack {
+    height: 175vh;
+  }
+  .stack .stack__inner .stack__title .stack__title-p2 {
+    width:auto;
+  }
+  .section__inner .system__title .system__title-p {
+    top: 100%;
+  }
+  .road {
+    height: 60vh;
+  }
+  .system {
+    height: 285vh;
+  }
+  .heat .progress__blocks {
+    height: 215vh;
+  }
+  .promo {
+    height: 700vh;
+  }
+  .road {
+    height: 88vh;
+  }
+}
